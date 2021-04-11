@@ -1,0 +1,3 @@
+sequence_name	predicted_value
+test_seq	3.448923110961914
+test_seq1	3.201995849609375
