@@ -14,7 +14,7 @@ predict the brightness of avGFP mutants
 
 [TAPE article](https://arxiv.org/abs/1906.08230)
 
-[PtsRep source code](https://arxiv.org/abs/1906.08230)
+[PtsRep source code](https://github.com/ElvinJun/Self-supervised-protein-structure-pretraining)
 
 [PtsRep article](https://www.biorxiv.org/content/10.1101/2020.12.22.423916v2)
 
