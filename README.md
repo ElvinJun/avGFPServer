@@ -21,7 +21,7 @@ predict the brightness of avGFP mutants
 # 操作指引
 
 ## 网站主页面
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/46809259/115511378-598a1780-a2b3-11eb-9a7e-1fb415456dc2.png)
 
 
 ## 上传文件
