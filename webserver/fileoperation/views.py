@@ -34,7 +34,7 @@ def download(request, filename):
         response = HttpResponse(file.chunks(), content_type='APPLICATION/OCTET-STREAM')
         response['Content-Disposition'] = 'attachment; filename=' + filename
         response['Content-Length'] = os.path.getsize(file_pathname)
-    # os.unlink(file_pathname)
+
     return response
 
 
