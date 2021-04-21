@@ -7,8 +7,11 @@ predict the brightness of avGFP mutants
 #Contents
 
 [UniRep source code](https://github.com/churchlab/UniRep)
+
 [UniRep article](https://www.nature.com/articles/s41592-019-0598-1)
+
 [TAPE source code ](https://github.com/songlab-cal/tape)
+
 [TAPE article](https://arxiv.org/abs/1906.08230)
 
 # 操作指引
