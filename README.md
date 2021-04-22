@@ -14,7 +14,7 @@ predict the brightness of avGFP mutants
 
 [TAPE article](https://arxiv.org/abs/1906.08230)
 
-# Self-Supervised Representation Learning of Protein Tertiary Structures
+# Self-Supervised Representation Learning of Protein Tertiary Structures（PtsRep）
 
 #Our code is available at [PtsRep source code](https://github.com/ElvinJun/Self-supervised-protein-structure-pretraining)
 
