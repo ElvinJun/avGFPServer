@@ -4,7 +4,7 @@ predict the brightness of avGFP mutants
 # Workflow
 ![image](https://user-images.githubusercontent.com/46809259/115359054-ddc79680-a1f0-11eb-884e-4d9e5fe1cf3c.png)
 
-#Contents
+# Related work
 
 [UniRep source code](https://github.com/churchlab/UniRep)
 
@@ -14,9 +14,11 @@ predict the brightness of avGFP mutants
 
 [TAPE article](https://arxiv.org/abs/1906.08230)
 
-[PtsRep source code](https://github.com/ElvinJun/Self-supervised-protein-structure-pretraining)
+# Self-Supervised Representation Learning of Protein Tertiary Structures
 
-[PtsRep article](https://www.biorxiv.org/content/10.1101/2020.12.22.423916v2)
+#Our code is available at [PtsRep source code](https://github.com/ElvinJun/Self-supervised-protein-structure-pretraining)
+
+#Our paper is available at [PtsRep article](https://www.biorxiv.org/content/10.1101/2020.12.22.423916v2)
 
 # 操作指引
 
