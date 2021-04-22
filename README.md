@@ -20,7 +20,7 @@ predict the brightness of avGFP mutants
 
 #Our paper is available at [PtsRep article](https://www.biorxiv.org/content/10.1101/2020.12.22.423916v2)
 
-# 操作指引
+# Web应用程序操作指引
 
 ## 网站主页面
 ![image](https://user-images.githubusercontent.com/46809259/115511378-598a1780-a2b3-11eb-9a7e-1fb415456dc2.png)
